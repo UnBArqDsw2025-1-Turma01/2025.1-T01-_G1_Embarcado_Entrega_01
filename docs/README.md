@@ -18,10 +18,8 @@ Demais diretrizes constam no Moodle.
 **Entrega**: 01<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+
+<table> <tr> <td align="center"> <a href="https://github.com/arthurrochamoreira"> <img src="https://github.com/arthurrochamoreira.png" width="100px;" alt="Altino Arthur"/><br /> <sub><b>Altino Arthur</b></sub><br /> <sub>211030658</sub> </a> </td> <td align="center"> <a href="https://github.com/USUARIO_GITHUB"> <img src="https://github.com/USUARIO_GITHUB.png" width="100px;" alt="Nome do Colaborador"/><br /> <sub><b>Nome Completo</b></sub><br /> <sub>XXXXXXXXX</sub> </a> </td> <td align="center"> <a href="https://github.com/USUARIO_GITHUB"> <img src="https://github.com/USUARIO_GITHUB.png" width="100px;" alt="Nome do Colaborador"/><br /> <sub><b>Nome Completo</b></sub><br /> <sub>XXXXXXXXX</sub> </a> </td> <td align="center"> <a href="https://github.com/USUARIO_GITHUB"> <img src="https://github.com/USUARIO_GITHUB.png" width="100px;" alt="Nome do Colaborador"/><br /> <sub><b>Nome Completo</b></sub><br /> <sub>XXXXXXXXX</sub> </a> </td> <td align="center"> <a href="https://github.com/USUARIO_GITHUB"> <img src="https://github.com/USUARIO_GITHUB.png" width="100px;" alt="Nome do Colaborador"/><br /> <sub><b>Nome Completo</b></sub><br /> <sub>XXXXXXXXX</sub> </a> </td> <td align="center"> <a href="https://github.com/USUARIO_GITHUB"> <img src="https://github.com/USUARIO_GITHUB.png" width="100px;" alt="Nome do Colaborador"/><br /> <sub><b>Nome Completo</b></sub><br /> <sub>XXXXXXXXX</sub> </a> </td> <td align="center"> <a href="https://github.com/USUARIO_GITHUB"> <img src="https://github.com/USUARIO_GITHUB.png" width="100px;" alt="Nome do Colaborador"/><br /> <sub><b>Nome Completo</b></sub><br /> <sub>XXXXXXXXX</sub> </a> </td> </tr> </table>
 
 ## Sobre 
 Contextualize, usando referências, links, e outros materiais como fontes.
@@ -39,3 +37,9 @@ Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados
 
 ## Informações Complementares 
 Quaisquer outras informações adicionais podem ser descritas nessa seção.
+
+## Histórico de versões:
+
+Versão |   Data  | Descrição | Autor(es) | Revisor(es)
+:------: | :----: | :------: | :----------: | :----------:
+`1.0` | 07/04/2025 | Criação da git page | [Altino Arthur](https://github.com/arthurrochamoreira) | 
