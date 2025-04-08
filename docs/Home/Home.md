@@ -1,4 +1,3 @@
-# RepositorioTemplate
 Este repositório é dedicada à documentação de todos os artefatos produzidos pelo grupo 01 na disciplina de ARQUITETURA E DESENHO DE SOFTWARE da Faculdade do Gama da Universidade de Brasília (FGA-Unb) durante o 1º semestre de 2025. 
 
 # Nome do Projeto
@@ -9,9 +8,72 @@ Este repositório é dedicada à documentação de todos os artefatos produzidos
 
 ## Alunos:
 
-|![Altino Arthur](https://github.com/arthurrochamoreira.png) |![Foto](https://github.com/USUARIO1.png)|![Foto](https://github.com/USUARIO2.png)|![Foto](https://github.com/USUARIO3.png)|![Foto](https://github.com/USUARIO4.png)|![Foto](https://github.com/USUARIO5.png)|![Foto](https://github.com/USUARIO6.png)|
-| - | - | - | - | - | - | - |
-|[Altino Arthur](https://github.com/arthurrochamoreira)<br/>211030658|[Nome Completo](https://github.com/USUARIO1)<br/>MATRICULA|[Nome Completo](https://github.com/USUARIO2)<br/>MATRICULA|[Nome Completo](https://github.com/USUARIO3)<br/>MATRICULA|[Nome Completo](https://github.com/USUARIO4)<br/>MATRICULA|[Nome Completo](https://github.com/USUARIO5)<br/>MATRICULA|[Nome Completo](https://github.com/USUARIO6)<br/>MATRICULA|
+<center>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/arthurrochamoreira">
+          <img style="border-radius: 50%;" src="https://github.com/arthurrochamoreira.png" width="130px;" alt=""/><br />
+          <sub><b>Altino Arthur Rocha Moreira</b></sub><br />
+          <sub>Matrícula: 211030658</sub>
+        </a><br />
+      </td>
+      <td align="center">
+        <a href="https://github.com/">
+          <img style="border-radius: 50%;" src="https://github.com/" width="130px;" alt=""/><br />
+          <sub><b>Nome do Membro</b></sub><br />
+          <sub>Matrícula: 000000001</sub>
+        </a><br />
+      </td>
+      <td align="center">
+        <a href="https://github.com/">
+          <img style="border-radius: 50%;" src="https://github.com/" width="130px;" alt=""/><br />
+          <sub><b>Nome do Membro</b></sub><br />
+          <sub>Matrícula: 000000002</sub>
+        </a><br />
+      </td>
+      <td align="center">
+        <a href="https://github.com/">
+          <img style="border-radius: 50%;" src="https://github.com/" width="130px;" alt=""/><br />
+          <sub><b>Nome do Membro</b></sub><br />
+          <sub>Matrícula: 000000003</sub>
+        </a><br />
+      </td>
+      <td align="center">
+        <a href="https://github.com/">
+          <img style="border-radius: 50%;" src="https://github.com/" width="130px;" alt=""/><br />
+          <sub><b>Nome do Membro</b></sub><br />
+          <sub>Matrícula: 000000004</sub>
+        </a><br />
+      </td>
+      <td align="center">
+        <a href="https://github.com/">
+          <img style="border-radius: 50%;" src="https://github.com/" width="130px;" alt=""/><br />
+          <sub><b>Nome do Membro</b></sub><br />
+          <sub>Matrícula: 000000005</sub>
+        </a><br />
+      </td>
+      <td align="center">
+        <a href="https://github.com/">
+          <img style="border-radius: 50%;" src="https://github.com/" width="130px;" alt=""/><br />
+          <sub><b>Nome do Membro</b></sub><br />
+          <sub>Matrícula: 000000006</sub>
+        </a><br />
+      </td>
+      <td align="center">
+        <a href="https://github.com/">
+          <img style="border-radius: 50%;" src="https://github.com/" width="130px;" alt=""/><br />
+          <sub><b>Nome do Membro</b></sub><br />
+          <sub>Matrícula: 000000007</sub>
+        </a><br />
+      </td>
+    </tr>
+  </table>
+</div>
+
+</center>
 
 ## Sobre 
 Contextualize, usando referências, links, e outros materiais como fontes.
