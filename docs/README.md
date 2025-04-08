@@ -1,24 +1,3 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial.
-As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
-Demais diretrizes constam no Moodle.
-
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)(Turma)_(Grupo)_(NomeDoProjeto)_(Entrega_01)*. !!** 
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
-
-**!! *Exemplo de título correto: 2025.1(T01)_G1_Embarcado_Entrega_01*. !!** 
- 
- (Apague esses comentários)
-
-# Nome do Projeto
-
-**Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: XX<br>
-**Entrega**: 01<br>
-
-## Alunos
-
 Este repositório é dedicada à documentação de todos os artefatos produzidos pelo grupo 01 na disciplina de ARQUITETURA E DESENHO DE SOFTWARE da Faculdade do Gama da Universidade de Brasília (FGA-Unb) durante o 1º semestre de 2025. 
 
 # Nome do Projeto
@@ -119,28 +98,3 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 :------: | :----: | :------: | :----------: | :----------:
 `1.0` | 07/04/2025 | Criação da git page | [Altino Arthur](https://github.com/arthurrochamoreira) | 
 `1.1` | 07/04/2025 | Criação da Homepage | [Altino Arthur](https://github.com/arthurrochamoreira) | 
-
-
-
-## Sobre 
-Contextualize, usando referências, links, e outros materiais como fontes.
-
-## Screenshots da Primeira Entrega
-Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
-
-## Há algo a ser executado?
-
-( ) SIM
-
-( ) NÃO
-
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
-
-## Informações Complementares 
-Quaisquer outras informações adicionais podem ser descritas nessa seção.
-
-## Histórico de versões:
-
-Versão |   Data  | Descrição | Autor(es) | Revisor(es)
-:------: | :----: | :------: | :----------: | :----------:
-`1.0` | 07/04/2025 | Criação da git page | [Altino Arthur](https://github.com/arthurrochamoreira) | 
