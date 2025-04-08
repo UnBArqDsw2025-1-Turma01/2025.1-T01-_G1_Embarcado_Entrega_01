@@ -98,3 +98,4 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 :------: | :----: | :------: | :----------: | :----------:
 `1.0` | 07/04/2025 | Criação da git page | [Altino Arthur](https://github.com/arthurrochamoreira) | 
 `1.1` | 07/04/2025 | Criação da Homepage | [Altino Arthur](https://github.com/arthurrochamoreira) | 
+
