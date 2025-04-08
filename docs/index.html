@@ -3,48 +3,38 @@
 <head>
   <meta charset="UTF-8" />
   <title>Grupo 01</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <!-- Estilos -->
+  <!-- Tema padrão do Docsify -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" />
+  <!-- Tema escuro/claro -->
   <link 
     rel="stylesheet"
     href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css"
     title="docsify-darklight-theme"
     type="text/css"
   />
+  <!-- Ícones Material Symbols -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" />
 
   <style>
-  /* Remove ícone padrão */
-  .sidebar ul li > a::after,
-  .sidebar ul li > p::after {
-    content: '';
-  }
 
-  /* Aplica seta em qualquer item (link ou título) que tiver submenu */
-  .sidebar ul li:has(> ul) > a::after,
-  .sidebar ul li:has(> ul) > p::after {
-    content: 'arrow_forward_ios';
-    font-family: 'Material Symbols Outlined';
-    font-weight: normal;
-    font-style: normal;
-    font-size: 16px;
-    display: inline-block;
-    line-height: 1;
-    margin-left: 8px;
-    vertical-align: middle;
-    transition: transform 0.2s ease;
-  }
+    /* Ícone padrão (expand_more) para itens com submenu */
+    .sidebar ul li:has(> ul) > a::after,
+    .sidebar ul li:has(> ul) > p::after {
+      content: 'expand_more';
+      font-family: 'Material Symbols Outlined';
+      font-size: 18px;
+      margin-left: 8px;
+      vertical-align: middle;
+      transition: all 0.2s ease;
+    }
 
-  /* Rotaciona seta quando aberto */
-  .sidebar ul li:has(> ul).open > a::after,
-  .sidebar ul li:has(> ul).open > p::after {
-    transform: rotate(90deg);
-  }
-
+    /* Ícone alterado (keyboard_arrow_up) quando submenu estiver aberto */
+    .sidebar ul li:has(> ul).open > a::after,
+    .sidebar ul li:has(> ul).open > p::after {
+      content: 'keyboard_arrow_up';
+    }
   </style>
 </head>
 <body>
@@ -61,11 +51,12 @@
         placeholder: 'Buscar',
         noData: 'Nenhum resultado!',
         depth: 2
-      }
+      },
+      plugins: [window.DocsifySidebarCollapse]
     }
   </script>
 
-  <!-- Scripts -->
+  <!-- Scripts necessários -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
