@@ -21,10 +21,10 @@ Este repositório é dedicada à documentação de todos os artefatos produzidos
         </a><br />
       </td>
       <td align="center">
-        <a href="https://github.com/">
-          <img style="border-radius: 50%;" src="https://github.com/" width="130px;" alt=""/><br />
-          <sub><b>Nome do Membro</b></sub><br />
-          <sub>Matrícula: 000000001</sub>
+        <a href="https://github.com/daniel-de-sousa">
+          <img style="border-radius: 50%;" src="https://github.com/daniel-de-sousa.png" width="130px;" alt=""/><br />
+          <sub><b>Daniel dos Santos Barros de Sousa</b></sub><br />
+          <sub>Matrícula: 211030980</sub>
         </a><br />
       </td>
       <td align="center">
@@ -96,5 +96,6 @@ Quaisquer outras informações adicionais podem ser descritas nessa seção.
 
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 :------: | :----: | :------: | :----------: | :----------:
-`1.0` | 07/04/2025 | Criação da git page | [Altino Arthur](https://github.com/arthurrochamoreira) | 
-`1.1` | 07/04/2025 | Criação da Homepage | [Altino Arthur](https://github.com/arthurrochamoreira) | 
+`1.0` | 07/04/2025 | Criação da git page | [Altino Arthur](https://github.com/arthurrochamoreira) | [Daniel Sousa](https://github.com/daniel-de-sousa) |
+`1.1` | 07/04/2025 | Criação da Homepage | [Altino Arthur](https://github.com/arthurrochamoreira) | [Daniel Sousa](https://github.com/daniel-de-sousa) |
+`1.2` | 07/04/2025 | Atualizando Homepage| [Daniel Sousa](https://github.com/daniel-de-sousa) |  |
