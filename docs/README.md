@@ -21,24 +21,24 @@ Este repositório é dedicada à documentação de todos os artefatos produzidos
         </a><br />
       </td>
       <td align="center">
-        <a href="https://github.com/">
-          <img style="border-radius: 50%;" src="https://github.com/" width="130px;" alt=""/><br />
-          <sub><b>Nome do Membro</b></sub><br />
-          <sub>Matrícula: 000000001</sub>
+        <a href="https://github.com/daniel-de-sousa">
+          <img style="border-radius: 50%;" src="https://github.com/daniel-de-sousa.png" width="130px;" alt=""/><br />
+          <sub><b>Daniel dos Santos Barros de Sousa</b></sub><br />
+          <sub>Matrícula: 211030980</sub>
         </a><br />
       </td>
       <td align="center">
-        <a href="https://github.com/">
-          <img style="border-radius: 50%;" src="https://github.com/" width="130px;" alt=""/><br />
-          <sub><b>Nome do Membro</b></sub><br />
-          <sub>Matrícula: 000000002</sub>
+        <a href="https://github.com/DeM4rcio">
+          <img style="border-radius: 50%;" src="https://github.com/DeM4rcio.png" width="130px;" alt=""/><br />
+          <sub><b>Márcio Henrique</b></sub><br />
+          <sub>Matrícula: 221039497</sub>
         </a><br />
       </td>
       <td align="center">
-        <a href="https://github.com/">
-          <img style="border-radius: 50%;" src="https://github.com/" width="130px;" alt=""/><br />
-          <sub><b>Nome do Membro</b></sub><br />
-          <sub>Matrícula: 000000003</sub>
+        <a href="https://github.com/MatheusHenrickSantos">
+          <img style="border-radius: 50%;" src="https://github.com/MatheusHenrickSantos.png" width="130px;" alt=""/><br />
+          <sub><b>Matheus Henrick Dutra dos Santos</b></sub><br />
+          <sub>Matrícula: 190018101</sub>
         </a><br />
       </td>
       <td align="center">
@@ -94,8 +94,9 @@ Quaisquer outras informações adicionais podem ser descritas nessa seção.
 
 ## Histórico de versões:
 
-Versão |   Data  | Descrição | Autor(es) | Revisor(es)
-:------: | :----: | :------: | :----------: | :----------:
-`1.0` | 07/04/2025 | Criação da git page | [Altino Arthur](https://github.com/arthurrochamoreira) | 
-`1.1` | 07/04/2025 | Criação da Homepage | [Altino Arthur](https://github.com/arthurrochamoreira) | 
-
+| Versão | Data       | Descrição | Autor(es) | Revisor(es) |
+| :----: | :--------: | :-------: | :-------: | :---------: |
+| `1.0`  | 07/04/2025 | Criação da git page | [Altino Arthur](https://github.com/arthurrochamoreira) | [Daniel Sousa](https://github.com/daniel-de-sousa) |
+| `1.1`  | 07/04/2025 | Criação da Homepage | [Altino Arthur](https://github.com/arthurrochamoreira) | [Daniel Sousa](https://github.com/daniel-de-sousa) |
+| `1.2`  | 07/04/2025 | Atualizando Homepage | [Daniel Sousa](https://github.com/daniel-de-sousa) | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
+| `1.3`  | 10/04/2025 | Atualizando Homepage | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |  |
