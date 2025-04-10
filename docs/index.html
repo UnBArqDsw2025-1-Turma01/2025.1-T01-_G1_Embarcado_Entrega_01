@@ -5,6 +5,9 @@
   <title>Grupo 01</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
+  <!-- Fonte Poppins -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+
   <!-- Tema padrão do Docsify -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" />
   <!-- Tema escuro/claro -->
@@ -18,6 +21,15 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" />
 
   <style>
+    /* Fonte Poppins aplicada apenas aos títulos */
+    .markdown-section h1,
+    .markdown-section h2,
+    .markdown-section h3,
+    .markdown-section h4,
+    .markdown-section h5,
+    .markdown-section h6 {
+      font-family: 'Poppins', sans-serif;
+    }
 
     /* Ícone padrão (expand_more) para itens com submenu */
     .sidebar ul li:has(> ul) > a::after,
@@ -35,6 +47,7 @@
     .sidebar ul li:has(> ul).open > p::after {
       content: 'keyboard_arrow_up';
     }
+    
   </style>
 </head>
 <body>

@@ -6,7 +6,7 @@
 - **Base**
   - [1. Desenho de Software (Base)](/Base/1.Base.md)
     - [1.1. Design Sprint](/Base/1.1.DesignSprint.md)
-      - [1.1.1 Entender]()
+      - [1.1.1 Entender](Base/1.1.1.Entender.md)
       - [1.1.2 Idealizar]()
       - [1.1.3 Decidir]()
       - [1.1.4 Prototipar]()
