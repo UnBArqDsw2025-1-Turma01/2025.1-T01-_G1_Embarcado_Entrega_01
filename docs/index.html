@@ -69,30 +69,6 @@
     }
   </script>
 
-  <script>
-    window.$docsify = {
-      name: 'Grupo 01',
-      repo: 'https://github.com/UnBArqDsw2025-1-Turma01/RepositorioTemplateEntrega1',
-      loadSidebar: true,
-      search: {
-        maxAge: 86400000,
-        paths: 'auto',
-        placeholder: 'Buscar',
-        noData: 'Nenhum resultado!',
-        depth: 2
-      },
-      plugins: [
-        window.DocsifySidebarCollapse,
-        function(hook, vm) {
-          hook.beforeEach(function(content) {
-            // Modifica links internos para não abrir em nova aba
-            return content.replace(/<a(.*?)target="_blank"(.*?)>/g, '<a$1$2>');
-          });
-        }
-      ]
-    }
-  </script>
-
   <!-- Scripts necessários -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
