@@ -29,9 +29,9 @@ Este repositório é dedicada à documentação de todos os artefatos produzidos
       </td>
       <td align="center">
         <a href="https://github.com/">
-          <img style="border-radius: 50%;" src="https://github.com/" width="130px;" alt=""/><br />
-          <sub><b>Nome do Membro</b></sub><br />
-          <sub>Matrícula: 000000002</sub>
+          <img style="border-radius: 50%;" src="https://github.com/DeM4rcio.png" width="130px;" alt=""/><br />
+          <sub><b>Márcio Henrique</b></sub><br />
+          <sub>Matrícula: 221039497</sub>
         </a><br />
       </td>
       <td align="center">
