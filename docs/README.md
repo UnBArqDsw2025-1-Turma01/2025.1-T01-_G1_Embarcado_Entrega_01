@@ -76,11 +76,11 @@ Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
 ## 📄 Histórico de Versões
 
-| Versão | Data       | Descrição | Autor(es) | Revisor(es) | Descrição da Revisão | Data da Revisão |
-| :----: | :--------: | :-------: | :-------: | :---------: | :--------------------: | :-----------: |
-| `1.0`  | 07/04/2025 | Criação da git page | [Altino Arthur](https://github.com/arthurrochamoreira) | [Daniel Sousa](https://github.com/daniel-de-sousa) | | |
-| `1.1`  | 07/04/2025 | Criação da Homepage | [Altino Arthur](https://github.com/arthurrochamoreira) | [Daniel Sousa](https://github.com/daniel-de-sousa) | | |
-| `1.2`  | 07/04/2025 | Atualizando Homepage | [Daniel Sousa](https://github.com/daniel-de-sousa) | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | | |
-| `1.3`  | 10/04/2025 | Atualizando Homepage | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [Lara Giuliana](https://github.com/gravelylara) | | |
-| `1.4`  | 10/04/2025 | Atualizando Homepage | [Lara Giuliana](https://github.com/gravelylara) | | | |
-| `1.5`  | 11/04/2025 | Atualizando com informações sobre o projeto | [Daniel Sousa](https://github.com/daniel-de-sousa) | | | |
+| Versão | Data       | Descrição | Autor(es) | Revisor(es) | Descrição da Revisão |
+| :----: | :--------: | :-------: | :-------: | :---------: | :--------------------: |
+| `1.0`  | 07/04/2025 | Criação da git page | [Altino Arthur](https://github.com/arthurrochamoreira) | [Daniel Sousa](https://github.com/daniel-de-sousa) | Verificação da integriade de conteúdo da gitpage |
+| `1.1`  | 07/04/2025 | Criação da Homepage | [Altino Arthur](https://github.com/arthurrochamoreira) | [Daniel Sousa](https://github.com/daniel-de-sousa) | Verificação e validação do conteúdo da home |
+| `1.2`  | 07/04/2025 | Atualizando Homepage | [Daniel Sousa](https://github.com/daniel-de-sousa) | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | Validação o conteúdo adWicionado na atualização |
+| `1.3`  | 10/04/2025 | Atualizando Homepage | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [Lara Giuliana](https://github.com/gravelylara) | Validação o conteúdo adicionado na atualização |
+| `1.4`  | 10/04/2025 | Atualizando Homepage | [Lara Giuliana](https://github.com/gravelylara) | [Daniel Sousa](https://github.com/daniel-de-sousa) | Validação o conteúdo modificado da home page |
+| `1.5`  | 11/04/2025 | Atualizando com informações sobre o projeto | [Daniel Sousa](https://github.com/daniel-de-sousa) | [Altino Arthur](https://github.com/arthurrochamoreira) | Verificação referências e conteúdo adicionado |
