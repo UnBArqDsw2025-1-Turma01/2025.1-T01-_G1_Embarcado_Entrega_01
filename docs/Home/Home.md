@@ -42,7 +42,7 @@ Este repositório é dedicada à documentação de todos os artefatos produzidos
         </a><br />
       </td>
       <td align="center">
-        <a href="https://github.com/">
+        <a href="https://github.com/weslley17w.png">
           <img style="border-radius: 50%;" src="https://github.com/weslley17w" width="130px;" alt=""/><br />
           <sub><b>Weslley Barros</b></sub><br />
           <sub>Matrícula: 200044567</sub>
