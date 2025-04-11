@@ -1,4 +1,4 @@
-Este repositório é dedicada à documentação de todos os artefatos produzidos pelo grupo 01 na disciplina de ARQUITETURA E DESENHO DE SOFTWARE da Faculdade do Gama da Universidade de Brasília (FGA-Unb) durante o 1º semestre de 2025.
+Este repositório é dedicada à documentação de todos os artefatos produzidos pelo grupo 01 na disciplina de ARQUITETURA E DESENHO DE SOFTWARE da Faculdade do Gama da Universidade de Brasília (FGA-Unb) durante o 1º semestre de 2025. 
 
 # Nome do Projeto
 
@@ -49,24 +49,10 @@ Este repositório é dedicada à documentação de todos os artefatos produzidos
         </a><br />
       </td>
       <td align="center">
-        <a href="https://github.com/">
-          <img style="border-radius: 50%;" src="https://github.com/" width="130px;" alt=""/><br />
-          <sub><b>Nome do Membro</b></sub><br />
-          <sub>Matrícula: 000000005</sub>
-        </a><br />
-      </td>
-      <td align="center">
-        <a href="https://github.com/">
-          <img style="border-radius: 50%;" src="https://github.com/" width="130px;" alt=""/><br />
-          <sub><b>Nome do Membro</b></sub><br />
-          <sub>Matrícula: 000000006</sub>
-        </a><br />
-      </td>
-      <td align="center">
-        <a href="https://github.com/">
-          <img style="border-radius: 50%;" src="https://github.com/" width="130px;" alt=""/><br />
-          <sub><b>Nome do Membro</b></sub><br />
-          <sub>Matrícula: 000000007</sub>
+        <a href="https://github.com/gravelylara">
+          <img style="border-radius: 50%;" src="https://github.com/gravelylara.png" width="130px;" alt=""/><br />
+          <sub><b>Lara Giuliana Lima dos Santos</b></sub><br />
+          <sub>Matrícula: 190058048</sub>
         </a><br />
       </td>
     </tr>
@@ -75,12 +61,10 @@ Este repositório é dedicada à documentação de todos os artefatos produzidos
 
 </center>
 
-## Sobre
-
+## Sobre 
 Contextualize, usando referências, links, e outros materiais como fontes.
 
 ## Screenshots da Primeira Entrega
-
 Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
 ## Há algo a ser executado?
@@ -91,15 +75,15 @@ Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
 Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
 
-## Informações Complementares
-
+## Informações Complementares 
 Quaisquer outras informações adicionais podem ser descritas nessa seção.
 
 ## Histórico de versões:
 
-| Versão |    Data    |      Descrição       |                         Autor(es)                          |                        Revisor(es)                         |
-| :----: | :--------: | :------------------: | :--------------------------------------------------------: | :--------------------------------------------------------: |
-| `1.0`  | 07/04/2025 | Criação da git page  |   [Altino Arthur](https://github.com/arthurrochamoreira)   |     [Daniel Sousa](https://github.com/daniel-de-sousa)     |
-| `1.1`  | 07/04/2025 | Criação da Homepage  |   [Altino Arthur](https://github.com/arthurrochamoreira)   |     [Daniel Sousa](https://github.com/daniel-de-sousa)     |
-| `1.2`  | 07/04/2025 | Atualizando Homepage |     [Daniel Sousa](https://github.com/daniel-de-sousa)     | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
-| `1.3`  | 10/04/2025 | Atualizando Homepage | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |                                                            |
+| Versão | Data       | Descrição | Autor(es) | Revisor(es) |
+| :----: | :--------: | :-------: | :-------: | :---------: |
+| `1.0`  | 07/04/2025 | Criação da git page | [Altino Arthur](https://github.com/arthurrochamoreira) | [Daniel Sousa](https://github.com/daniel-de-sousa) |
+| `1.1`  | 07/04/2025 | Criação da Homepage | [Altino Arthur](https://github.com/arthurrochamoreira) | [Daniel Sousa](https://github.com/daniel-de-sousa) |
+| `1.2`  | 07/04/2025 | Atualizando Homepage | [Daniel Sousa](https://github.com/daniel-de-sousa) | [Matheus Henrick](https://github.com/MatheusHenrickSantos) |
+| `1.3`  | 10/04/2025 | Atualizando Homepage | [Matheus Henrick](https://github.com/MatheusHenrickSantos) | [Lara Giuliana](https://github.com/gravelylara) |
+| `1.4`  | 10/04/2025 | Atualizando Homepage | [Lara Giuliana](https://github.com/gravelylara) |  |
