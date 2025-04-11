@@ -74,7 +74,7 @@ Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
 [1] BRASIL. Ministério da Saúde. [*Todos os anos, 40% dos idosos com 80 anos ou mais sofrem quedas*]((https://www.gov.br/pt-br/noticias/saude-e-vigilancia-sanitaria/2022/10/todos-os-anos-40-dos-idosos-com-80-anos-ou-mais-sofrem-quedas)). 10 out. 2022. Acesso em: 11 abr. 2025.
 
-## Histórico de versões:
+## 📄 Histórico de Versões
 
 | Versão | Data       | Descrição | Autor(es) | Revisor(es) | Descrição da Revisão |
 | :----: | :--------: | :-------: | :-------: | :---------: | :--------------------: |
