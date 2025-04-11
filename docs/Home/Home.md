@@ -55,13 +55,6 @@ Este repositório é dedicada à documentação de todos os artefatos produzidos
           <sub>Matrícula: 190058048</sub>
         </a><br />
       </td>
-      <td align="center">
-        <a href="https://github.com/">
-          <img style="border-radius: 50%;" src="https://github.com/" width="130px;" alt=""/><br />
-          <sub><b>Nome do Membro</b></sub><br />
-          <sub>Matrícula: 000000007</sub>
-        </a><br />
-      </td>
     </tr>
   </table>
 </div>
