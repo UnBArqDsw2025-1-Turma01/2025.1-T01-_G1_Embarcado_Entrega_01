@@ -10,7 +10,7 @@
       - [1.1.1 Entender](Base/1.1.1.Entender.md)
       - [1.1.2 Divergir](Base/1.1.2.Divergir.md)
       - [1.1.3 Decidir](Base/1.1.3.%20Decisão%20e%20Prototipagem.md)
-      - [1.1.4 Prototipar]()
+      - [1.1.4 Prototipar](Base/1.1.4.Prototipar.md)
       - [1.1.5 Testar](Base/1.1.5.Testar.md)
     - [1.2. Artefato Generalista](/Base/1.2.ArtefatoGeneralista.md)
       - [1.2.1 Léxicos](/Base/1.2.1.Lexicos.md)
