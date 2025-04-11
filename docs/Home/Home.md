@@ -43,9 +43,9 @@ Este repositório é dedicada à documentação de todos os artefatos produzidos
       </td>
       <td align="center">
         <a href="https://github.com/">
-          <img style="border-radius: 50%;" src="https://github.com/" width="130px;" alt=""/><br />
-          <sub><b>Nome do Membro</b></sub><br />
-          <sub>Matrícula: 000000004</sub>
+          <img style="border-radius: 50%;" src="https://github.com/weslley17w" width="130px;" alt=""/><br />
+          <sub><b>Weslley Barros</b></sub><br />
+          <sub>Matrícula: 200044567</sub>
         </a><br />
       </td>
       <td align="center">
