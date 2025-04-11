@@ -1,12 +1,9 @@
 <!-- docs/_sidebar.md -->
 
 - [**Home**](/Home/Home.md)
-
-- [**Projetos**](/Projeto/Projeto.md)
-
 - **Base**
-  - [1. Desenho de Software (Base)](Base/1.Base.md)
-    - [1.1. Design Sprint](Base/1.1.DesignSprint.md)
+  - [1. Desenho de Software (Base)]()
+    - [1.1. Design Sprint]()
       - [1.1.1 Entender](Base/1.1.1.Entender.md)
       - [1.1.2 Divergir](Base/1.1.2.Divergir.md)
       - [1.1.3 Decidir](Base/1.1.3.Decisao.md)
